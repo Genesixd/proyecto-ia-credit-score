@@ -1,0 +1,14 @@
+# Archivos de datos gigantes (no subir a GitHub)
+X_processed.csv
+X_processed.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
