@@ -12,3 +12,8 @@ __pycache__/
 # Sistema
 .DS_Store
 Thumbs.db
+# ==== Datos procesados gigantes (no subir a Git) ====
+X_processed*.csv
+X_processed*.pkl
+y_labels*.csv
+y_labels*.pkl
