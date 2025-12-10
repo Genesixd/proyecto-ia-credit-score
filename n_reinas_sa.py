@@ -138,7 +138,7 @@ def imprimir_tablero(estado: List[int]) -> None:
 
 
 # =========================
-#   Pruebas rápidas
+#   Pruebas rápida
 # =========================
 
 if __name__ == "__main__":
